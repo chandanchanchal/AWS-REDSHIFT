@@ -4,9 +4,7 @@ Can you set up a data warehouse and create a dashboard in under 60 minutes? In t
 
 
 ```
-Matt Scaer
-Principal DW Specialist SA
-AWS
+
 
 ```
 
